@@ -3,3 +3,5 @@
 !/data/Kickstarter001.csv
 /*.pkl
 config.py
+/Notebooks/*.pkl
+/Notebooks/.ipynb_checkpoints
