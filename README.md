@@ -5,7 +5,8 @@ Kickstarter is a crowdsourcing platform where Creators can upload their projects
 ## Data Source
 WebRobots.io - https://webrobots.io/kickstarter-datasets/
 
-Additional web scraping was done on the URLs provided by WebRobots to pull in descriptions and reward information. 
+Additional web scraping was done on the URLs provided by WebRobots to pull in descriptions and reward information.
+
 
 ## Content
 [Notebooks](https://github.com/ohmgmatt/kickstarter_prediction/tree/master/Notebooks)  
